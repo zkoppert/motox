@@ -84,3 +84,7 @@
 - [ ] flashlight
 - [ ] bath towel
 - [ ] sleeping bag
+- [ ] canopy
+- [ ] Air compressor
+- [ ] Power inverter
+
